@@ -64,4 +64,4 @@ type(scope):subject
 - body 每行不超过 72 个字符
 - 使用中文，保持一致
 - 每个提交都聚焦单一目的，更符合 Conventional Commits 最佳实践
-- 严格遵守: 不要添加智能助手的签名;不要有 Co-Authored-By
+- 严格遵守: 不要添加智能助手的签名;不要有 Co-Authored-By 行
